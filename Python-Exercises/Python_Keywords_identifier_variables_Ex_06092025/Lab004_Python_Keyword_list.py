@@ -1,0 +1,4 @@
+# Keywords list
+
+import keyword
+print(keyword.kwlist)
