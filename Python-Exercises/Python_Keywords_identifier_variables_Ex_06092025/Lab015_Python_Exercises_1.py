@@ -34,7 +34,7 @@ print(x, y)
 # Output: 10 5
 
 #7. What will happen if you use a reserved keyword like 'for' as a variable name?
-for = 7 # SyntaxError: invalid syntax
+# for = 7 # SyntaxError: invalid syntax
 
 #8. Create three variables in one line to store 10, 20, and 30.
 x, y, z = 10, 20, 30
