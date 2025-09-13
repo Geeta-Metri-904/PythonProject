@@ -7,3 +7,14 @@
 
 # user i/p - s1,s2,s3 - int
 # o/p - iso, eq, scelene
+
+s1 = int(input("Enter a first side length: "))
+s2 = int(input("Enter a second side length: "))
+s3 = int(input("Enter a third side length: "))
+
+if s1==s2 and s1==s3:
+    print("All sides are equal, Hence, it's a equilateral triangle")
+elif s1==s2 or s1==s3 or s2==s3:
+    print("Two sides are equal, Hence, it's a isosceles triangle")
+else:
+    print("All sides are not equal, Hence, it's a scalene triangle")
