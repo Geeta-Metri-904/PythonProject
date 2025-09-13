@@ -13,3 +13,8 @@ if user_input_1 > 18:
     print("You are allowed to vote")
 else:
     print("You are not allowed to vote")
+
+
+print(" ------------------------------------- ")
+
+print("Allowed to Vote" if int(input("Enter Your Age\n")) > 18 else "Not allowed to Vote")

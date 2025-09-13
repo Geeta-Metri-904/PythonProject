@@ -7,3 +7,8 @@ a, b = 5, 3
 print(a == b)   # False
 print(a != b)   # True
 print(a > b)    # True
+
+a,b,c = 1,2,3
+print(a)
+print(b)
+print(c)
