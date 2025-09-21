@@ -9,3 +9,4 @@ greet()
 
 print("dashboard")
 greet()
+greet()
