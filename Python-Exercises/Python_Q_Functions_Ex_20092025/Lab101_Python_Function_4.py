@@ -1,8 +1,8 @@
 # def 123():    # identifier rule is failed
 #     print("Hi")
 
-def_123():   # valid
-print("Hi")
+def _123():   # valid
+    print("Hi")
 
 def _():    # valid
     print("Hi")
