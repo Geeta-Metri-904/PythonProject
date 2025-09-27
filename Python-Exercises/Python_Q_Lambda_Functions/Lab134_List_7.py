@@ -12,7 +12,7 @@ my_list.append(5)
 print(my_list)
 
 # extend()  --> Append a new list
-my_list.extend([7,8,9])
+my_list.extend([7,2,8,10])
 print(my_list)
 
 # insert()
@@ -46,3 +46,16 @@ print(my_list) # ValueError: list.remove(x): x not in list - Amit is not there i
 
 print("---------------------------------------------------------------")
 
+my_copy_list = my_list.copy()
+print(my_list)
+print(my_copy_list)
+
+print("---------------------------------------------------------------")
+
+my_copy_list.remove("Geeta")
+my_list.remove("Geeta")
+
+my_copy_list.sort()
+
+print(my_list)
+print(my_copy_list)
