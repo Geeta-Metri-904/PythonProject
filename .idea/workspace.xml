@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d57b0ee9-e115-463c-9a41-005e1062b089" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_Coding_Exercises/Lab001_Remove_Duplicates_From_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_Coding_Exercises/Lab002_Reverse_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_Coding_Exercises/Lab003_Divisible_by7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_Coding_Exercises/Lab004_Reverse_String.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_args_and _kargs/Lab001_args_krags.py" afterDir="false" />
+    <list default="true" id="d57b0ee9-e115-463c-9a41-005e1062b089" name="Changes" comment="Python_coding_exercises and args_kargs">
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_Class_Exercises/Lab_001_python_class_ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_Class_Exercises/Lab_002_python_constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_Class_Exercises/Lab_003_python_class_basic_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_Coding_Exercises/Lab005_python_varaible_assignment_types.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_File_Handling/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python-Exercises/Python_Operators_Examples_5_12092025/Lab052_Python_Conditional.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Exercises/Python_Operators_Examples_5_12092025/Lab052_Python_Conditional.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,8 @@
     "Python.Lab002_Reverse_String.executor": "Run",
     "Python.Lab003_Divisible_by7.executor": "Run",
     "Python.Lab004_Reverse_String.executor": "Run",
+    "Python.Lab_001_python_class_ex.executor": "Run",
+    "Python.Lab_002_python_constructor.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -71,7 +72,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Lab_002_python_constructor">
     <configuration name="Lab001_Remove_Duplicates_From_List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
@@ -116,8 +117,54 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab_001_python_class_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Exercises/Python_Class_Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/Python_Class_Exercises/Lab_001_python_class_ex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab_002_python_constructor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Exercises/Python_Class_Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/Python_Class_Exercises/Lab_002_python_constructor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab_002_python_constructor" />
+        <item itemvalue="Python.Lab_001_python_class_ex" />
         <item itemvalue="Python.Lab003_Divisible_by7" />
         <item itemvalue="Python.Lab001_Remove_Duplicates_From_List" />
       </list>
@@ -139,9 +186,22 @@
       <updated>1757184264765</updated>
       <workItem from="1757184265865" duration="371000" />
     </task>
+    <task id="LOCAL-00001" summary="Python_coding_exercises and args_kargs">
+      <option name="closed" value="true" />
+      <created>1793350425173</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1793350425173</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Python_coding_exercises and args_kargs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python_coding_exercises and args_kargs" />
   </component>
 </project>
