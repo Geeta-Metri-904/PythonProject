@@ -1,2 +1,2 @@
 with open("file1.txt", "r") as reader:
-    print(reader.readlines())
+    print(reader.readline())

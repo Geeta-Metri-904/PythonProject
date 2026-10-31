@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d57b0ee9-e115-463c-9a41-005e1062b089" name="Changes" comment="Python_coding_exercises and args_kargs">
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_Class_Exercises/Lab_001_python_class_ex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_Class_Exercises/Lab_002_python_constructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_Class_Exercises/Lab_003_python_class_basic_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_Coding_Exercises/Lab005_python_varaible_assignment_types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_File_Handling/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_File_Handling/Lab_003_file_readlines.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_File_Handling/Lab_004_file_line_by_line_using_readline.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_File_Handling/Lab_005_readlines_all_file_content_Read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_File_Handling/Lab_006_write_into_file.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Exercises/Python_File_Handling/Lab_001_file_reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Exercises/Python_File_Handling/Lab_001_file_reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Exercises/Python_File_Handling/Lab_002_file_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Exercises/Python_File_Handling/Lab_002_file_read.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python-Exercises/Python_File_Handling/file1.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Python-Exercises/Python_File_Handling/file1.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +60,16 @@
     "Python.Lab002_Reverse_String.executor": "Run",
     "Python.Lab003_Divisible_by7.executor": "Run",
     "Python.Lab004_Reverse_String.executor": "Run",
+    "Python.Lab_001_file_reader.executor": "Run",
     "Python.Lab_001_python_class_ex.executor": "Run",
+    "Python.Lab_002_file_read.executor": "Run",
     "Python.Lab_002_python_constructor.executor": "Run",
+    "Python.Lab_003_file_readlines.executor": "Run",
+    "Python.Lab_004_file_line_by_line_using_readline.executor": "Run",
+    "Python.Lab_005_readlines_all_file_content_Read.executor": "Run",
+    "Python.Lab_006_write_into_file.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/Geeta/PycharmProjects/PythonProject",
@@ -72,8 +81,8 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab_002_python_constructor">
-    <configuration name="Lab001_Remove_Duplicates_From_List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab_006_write_into_file">
+    <configuration name="Lab_001_file_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -82,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Exercises/Python_Coding_Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Exercises/Python_File_Handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/Python_Coding_Exercises/Lab001_Remove_Duplicates_From_List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/Python_File_Handling/Lab_001_file_reader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab003_Divisible_by7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_002_file_read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -104,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Exercises/Python_Coding_Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Exercises/Python_File_Handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/Python_Coding_Exercises/Lab003_Divisible_by7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/Python_File_Handling/Lab_002_file_read.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_001_python_class_ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_004_file_line_by_line_using_readline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Exercises/Python_Class_Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Exercises/Python_File_Handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/Python_Class_Exercises/Lab_001_python_class_ex.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/Python_File_Handling/Lab_004_file_line_by_line_using_readline.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab_002_python_constructor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab_005_readlines_all_file_content_Read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,11 +157,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Exercises/Python_Class_Exercises" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Exercises/Python_File_Handling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/Python_Class_Exercises/Lab_002_python_constructor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/Python_File_Handling/Lab_005_readlines_all_file_content_Read.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lab_006_write_into_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python-Exercises/Python_File_Handling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python-Exercises/Python_File_Handling/Lab_006_write_into_file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,10 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab_002_python_constructor" />
-        <item itemvalue="Python.Lab_001_python_class_ex" />
-        <item itemvalue="Python.Lab003_Divisible_by7" />
-        <item itemvalue="Python.Lab001_Remove_Duplicates_From_List" />
+        <item itemvalue="Python.Lab_006_write_into_file" />
+        <item itemvalue="Python.Lab_005_readlines_all_file_content_Read" />
+        <item itemvalue="Python.Lab_002_file_read" />
+        <item itemvalue="Python.Lab_004_file_line_by_line_using_readline" />
+        <item itemvalue="Python.Lab_001_file_reader" />
       </list>
     </recent_temporary>
   </component>
