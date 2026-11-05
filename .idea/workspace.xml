@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d57b0ee9-e115-463c-9a41-005e1062b089" name="Changes" comment="python_file_handling_exercises" />
+    <list default="true" id="d57b0ee9-e115-463c-9a41-005e1062b089" name="Changes" comment="python_file_handling_exercises">
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_All_Examples/Lab_33_Practice_Ex_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_All_Examples/Lab_34.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_All_Examples/Lab_35.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_All_Examples/Lab_36.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_All_Examples/Lab_37.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_All_Examples/Lab_38.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python-Exercises/Python_All_Examples/Lab_39.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +68,13 @@
     "Python.Lab_004_file_line_by_line_using_readline.executor": "Run",
     "Python.Lab_005_readlines_all_file_content_Read.executor": "Run",
     "Python.Lab_006_write_into_file.executor": "Run",
+    "Python.Lab_33_Practice_Ex_01.executor": "Run",
+    "Python.Lab_34.executor": "Run",
+    "Python.Lab_35.executor": "Run",
+    "Python.Lab_36.executor": "Run",
+    "Python.Lab_37.executor": "Run",
+    "Python.Lab_38.executor": "Run",
+    "Python.Lab_39.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -72,7 +88,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab_006_write_into_file">
+  <component name="RunManager">
     <configuration name="Lab_001_file_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
